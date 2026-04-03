@@ -8,9 +8,16 @@ Dr. Quisheng Wu
 
 ![Dr. Quisheng Wu](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQOSBCT0bp-iWShhJ5IRMiamgGHD5uoevKNw&s)
 
-Na co je to dobré?
+Dr. Quisheng Wu Youtube:
 
-Limity?
+Dokumentace: https://geemap.org/
+
+
+## Na co je to dobré?
+
+
+
+## Limity?
 
 Co se dnes bude dít?
 1. Aktivace geemap | skript 1g
