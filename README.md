@@ -1,2 +1,2 @@
-# geemap_SDSIPY
+# knihovna "geemap"
 Ukázka práce s knihovnou "geemap"
