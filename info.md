@@ -8,7 +8,7 @@ Dr. Quisheng Wu
 
 ![Dr. Quisheng Wu](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQOSBCT0bp-iWShhJ5IRMiamgGHD5uoevKNw&s)
 
-Dr. Quisheng Wu Youtube:
+Dr. Quisheng Wu Youtube: https://www.youtube.com/@giswqs
 
 Dokumentace: https://geemap.org/
 
