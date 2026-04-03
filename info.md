@@ -3,7 +3,8 @@
 
 Kdo za tím stojí?
 
-
+Dr. Quisheng Wu
+![Alt text](https://geography.utk.edu/wp-content/uploads/2023/10/Qiusheng_Wu.800x1200.webp)
 
 Na co je to dobré?
 
