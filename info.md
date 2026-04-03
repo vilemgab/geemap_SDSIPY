@@ -1,19 +1,21 @@
 # knihovna "geemap"
 
 
-Kdo za tím stojí?
+## Kdo za tím stojí?
 
 Dr. Quisheng Wu
-![Alt text](https://geography.utk.edu/wp-content/uploads/2023/10/Qiusheng_Wu.800x1200.webp)
+
+
+![Dr. Quisheng Wu](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQOSBCT0bp-iWShhJ5IRMiamgGHD5uoevKNw&s)
 
 Na co je to dobré?
 
 Limity?
 
 Co se dnes bude dít?
-1. Aktivace geemap
-2. 
-3.
-4.
-5.
-?? 6. Převod vlastního GEE skriptu do Python prostředí v Colab, zkouška vizualizace s geemap a export do HTML.
+1. Aktivace geemap | skript 1g
+2. Creating publication-quality maps with multiple Earth Engine layers | skript 1g
+3. Creating a split-panel map for visualizing Earth Engine data
+4. Creating animated GIF from vector data with only one line of code
+5. Creating Sentinel-1 SAR imagery timelapse
+?? 6. Převod vlastního GEE skriptu do Python prostředí v Colab, zkouška vizualizace s geemap a export do HTML | skript 2g
