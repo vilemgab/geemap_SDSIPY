@@ -20,9 +20,13 @@ Dokumentace: https://geemap.org/
 ## Limity?
 
 Co se dnes bude dít?
-1. Aktivace geemap | skript 1g
-2. Creating publication-quality maps with multiple Earth Engine layers | skript 1g
-3. Creating a split-panel map for visualizing Earth Engine data
-4. Creating animated GIF from vector data with only one line of code
-5. Creating Sentinel-1 SAR imagery timelapse
-?? 6. Převod vlastního GEE skriptu do Python prostředí v Colab, zkouška vizualizace s geemap a export do HTML | skript 2g
+
+0. Aktivace geemap | skript 1g
+1. Tvorba map v tiskové kvalitě | skript 1g
+2. Split-panel mapa | skript 1g
+3. Animovaný GIF vektorových dat jedním řádkem kódu | skript 1g
+4. Sentinel-1 timelapse | skript 1g
+5. Graf spektrálních křivek | skript 1g
+6. Colorbar | skript 1g
+7. Tvorba pohyblivé legendy | skript 1g
+8. Převod vlastního GEE skriptu do Python prostředí v Colab, zkouška vizualizace s geemap a export do HTML | skript 2g
